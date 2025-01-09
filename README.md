@@ -1,2 +1,4 @@
+
 # Car-game-
-<img src="<a href="https://ibb.co/mJSZzbp"><img src="https://i.ibb.co/LSvjpYK/Screenshot-2025-01-09-224945.png" alt="Screenshot-2025-01-09-224945" border="0"></a>" alt="Car game"
+
+![Screenshot 2025-01-09 224945](https://github.com/user-attachments/assets/a99744df-afa4-4f0a-9b4e-e7a975b3ddc2)
